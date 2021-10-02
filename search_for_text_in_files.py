@@ -1,4 +1,4 @@
-# Searches text files for a specific word
+# Searches text files in the path specified for a specific word
 
 from pathlib import Path
 
